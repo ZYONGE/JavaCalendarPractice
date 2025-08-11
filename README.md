@@ -24,5 +24,5 @@ CalendarApp/
 ```
 
 ## Author
-Name: Kim Jiyong (ZYONGE)
+Name: Kim Jiyong (ZYONGE)  
 Purpose: Built for practicing basic Java programming and submitted as a freshman assignment in 2023
