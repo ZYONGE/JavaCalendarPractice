@@ -8,6 +8,7 @@ Simple Java Syntax Practice Code.
 A simple terminal-based Java application that displays the monthly calendar, Using Calendar Library.
 
 ## Tech Stack
+- Java 17
 
 ## Feature
 
