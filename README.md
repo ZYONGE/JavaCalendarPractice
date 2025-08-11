@@ -17,7 +17,7 @@ java Calendar
 ## Project Structure
 
 ```
-CalendarApp/
+JavaCalendarPractice/
 ├── .gitignore
 ├── Calendar.java
 └── README.md
